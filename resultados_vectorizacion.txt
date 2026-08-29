@@ -1,0 +1,40 @@
+RESULTADOS DE VECTORIZACIÓN
+
+Caracteres procesados: 106533
+Oraciones procesadas: 581
+Forma de la matriz BoW: (581, 2000)
+Forma de la matriz TF-IDF: (581, 2000)
+
+PALABRAS MÁS FRECUENTES CON BAG-OF-WORDS:
+decir: 105
+él: 80
+dios: 74
+señor: 71
+ver: 67
+amo: 64
+casa: 62
+venir: 58
+dar: 58
+comer: 50
+mano: 50
+hacer: 48
+pensar: 48
+querer: 46
+cosa: 44
+
+PALABRAS CON MAYOR IMPORTANCIA SEGÚN TF-IDF:
+decir: 0.0303
+dios: 0.0239
+señor: 0.0237
+ver: 0.0209
+él: 0.0207
+casa: 0.0197
+amo: 0.0195
+venir: 0.0185
+dar: 0.0175
+comer: 0.0173
+ansí: 0.0168
+pensar: 0.0156
+querer: 0.0154
+hacer: 0.0148
+mano: 0.0148
