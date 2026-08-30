@@ -1,0 +1,41 @@
+RESULTADOS DE SEMÁNTICA DISTRIBUCIONAL
+
+Oraciones procesadas: 581
+Palabras en el vocabulario: 950
+Dimensiones de cada vector: 50
+Método utilizado: Word2Vec Skip-gram
+
+Palabras más cercanas semánticamente a 'lázaro':
+- tratado: 0.7021
+- cierra: 0.6208
+- cuarto: 0.6043
+- natural: 0.5898
+- tormes: 0.5735
+
+Palabras más cercanas semánticamente a 'amo':
+- treinta: 0.5402
+- diligencia: 0.5163
+- estuvir: 0.5127
+- mediodía: 0.5026
+- fiesta: 0.4975
+
+Palabras más cercanas semánticamente a 'señor':
+- servidor: 0.5347
+- encontrar: 0.5253
+- diligente: 0.5135
+- hija: 0.5037
+- comisario: 0.5002
+
+Palabras más cercanas semánticamente a 'casa':
+- obscura: 0.5796
+- lóbrega: 0.5760
+- desdichado: 0.5266
+- torno: 0.5232
+- barrer: 0.5040
+
+Palabras más cercanas semánticamente a 'hambre':
+- puro: 0.6871
+- finar: 0.6849
+- hartura: 0.6489
+- púseme: 0.6284
+- topé: 0.6022
